@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; background-color:#B1EBFD; text-align: <center>; image-alight: <center>;}
+
+.inde {color: #330A35;  font-size: 25px; text-align: center;}
+.abme { color: #330A35; font-size: 15px; display: inline; text-align: center;}
+.abme coming-soon {display: none; text-align: center;}
+.gall {color: #330A35; font-size: 15px; display: inline; ; text-align: center;}
+.gall coming-soon {display: none;text-align: center;}
+
+
+.abintro {color: #1E282B;font-size: 20px; text-align: center;}
+
+.hii {color: #1E282B; font-size: 30px; text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.madzmess {color: #1E282B;}
+.paragraph {color: #1E282B;font-size: 15px; text-align: center; }
+
+.basc {color: #1E282B;}
+.gingpara {color: #1E282B;font-size: 15px;}
+.gingpic {color: #1E282B;}
+
+.life { color: #1E282B;font-size: 20px;text-align: center}
+.grad {color: #1E282B; }
+.hallo {color: #1E282B;}
+.fam {color: #1E282B;}
+.amanda {color: #1E282B;}
+.ita {color: #1E282B;}
+.lily {color: #1E282B;}
+
+
+.some { color: #1E282B; font-size: 20px;text-align: center;}
+
+.hrome { color: #1E282B;font-size: 20px;}
+.colo {color: #1E282B;font-size: 12px; text-align: center;}
+.trevi {color: #1E282B;font-size: 12px;text-align: center;}
+.stpeter {color: #1E282B;font-size: 12px;text-align: center;}
+.piazza {color: #1E282B;font-size: 12px;text-align: center;}
+.spagna {color: #1E282B;font-size: 12px;text-align: center;}
+
+.hamsterdam {color: #1E282B;font-size: 20px;}
+
+.keizer {color: #1E282B;font-size: 12px;text-align: center;}
+.park {color: #1E282B;font-size: 12px;text-align: center;}
+.ponte {color: #1E282B;font-size: 12px;text-align: center;}
+.rotter {color: #1E282B;font-size: 12px;text-align: center;}
+.rotter2 {color: #1E282B;font-size: 12px;text-align: center;}
+.zaan {color: #1E282B;font-size: 12px;text-align: center;}
+
+.hnew {color: #1E282B;font-size: 20px;}
+.all {color: #1E282B;font-size: 12px;text-align: center;}
+.gov {color: #1E282B;font-size: 12px;text-align: center;}
+.ki {color: #1E282B;font-size: 12px;text-align: center;}
+
+.is {color: #1E282B;font-size: 20px;}
+.cam {color: #1E282B;font-size: 12px;text-align: center;}
+.jaf {color: #1E282B;font-size: 12px;text-align: center;}
+.mach {color: #1E282B;font-size: 12px;text-align: center;}
+.masa {color: #1E282B;font-size: 12px;text-align: center;}
+.neg {color: #1E282B;font-size: 12px;text-align: center;}
+.sach {color: #1E282B;font-size: 12px;text-align: center;}
+.tela {color: #1E282B;font-size: 12px;text-align: center;}
+
+ul
+{
+list-style-type: none;
+}
+
+.linky {color: #1E282B; font-size:15px;}
